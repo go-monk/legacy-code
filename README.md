@@ -1,3 +1,5 @@
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/e16e19cd-d5a2-4b23-9670-0d5946a2881b" />
+
 Almost everyone loves working on greenfield projects. Almost everyone hates working on legacy code.
 
 Greenfield projects allow you to choose your technology, and you don't need to try to understand existing code. It's a lot of fun building new things, especially when you (and your team) are experienced.
