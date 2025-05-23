@@ -1,5 +1,3 @@
-<img width="441" alt="image" src="https://github.com/user-attachments/assets/e16e19cd-d5a2-4b23-9670-0d5946a2881b" />
-
 Almost everyone loves working on greenfield projects. Almost everyone hates working on legacy code.
 
 Greenfield projects allow you to choose your technology, and you don't need to try to understand existing code. It's a lot of fun building new things, especially when you (and your team) are experienced.
@@ -17,3 +15,7 @@ Then zoom in to a component or a small part of it and try to figure it out.
 Next, try to improve it. Extract functions or methods, rename variables, write tests, ...
 
 If you persist and keep looping over the steps above, things will necessarily start becoming clearer and more enjoyable. Something that was barely readable and took ages to understand might soon read like a story. And this benefits you, your future self, and other people either working on the code or (even indirectly) using it.
+
+---
+
+Based on "The Software Craftsman" book by Sandro Mancuso (2015)
